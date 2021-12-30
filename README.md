@@ -26,12 +26,12 @@ URL: https://github.com/th33xitus/kiauh
 ###############################################
 
 
-Calibration FLSUN Q5:
+# Calibration FLSUN Q5:
 
-# PREREQUISITES:
+ PREREQUISITES:
 > BEFORE :
-- Install SW [Klipper + Fluidd + Moonraker in RaspberryDistro]
-- Calibrating the DeltaPrint-Geometry, carry out a correct calibration of the extruder!!! 
+>- Install SW [Klipper + Fluidd + Moonraker in RaspberryDistro]
+>- Calibrating the DeltaPrint-Geometry, carry out a correct calibration of the extruder!!! 
 
 # STEP 1:
 - Import "printer [Pre-Calibration].cfg" and rename in "printer.cfg"

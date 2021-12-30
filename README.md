@@ -8,7 +8,7 @@ Config and calibration Printer£D Delta FLSun Q5
 - MKS Robin Nano v1.2 + 4x BigTrhhTech 2208
 - Raspberry Pi Zero 2 W 
 - Display TFT 3.5"
-- New EFFECTOR-Block (STL)
+- New EFFECTOR-Block (STL + Fusion360_Project)
 - FAN Noctua 40x40 
 - Led-Strip in towers 2835 24v
 - RaspberryCam FullHD
@@ -19,7 +19,7 @@ Config and calibration Printer£D Delta FLSun Q5
 - Moonraker v0.7.1-243
 - KlipperScreen v0.2.0-10
 
-############### Install by KIAUH ##############
+###############   Install by KIAUH   ##############
 
 URL: https://github.com/th33xitus/kiauh
 
@@ -28,27 +28,27 @@ URL: https://github.com/th33xitus/kiauh
 
 Calibration FLSUN Q5:
 
-PREREQUISITES:
-# BEFORE :
+# PREREQUISITES:
+> BEFORE :
 - Install SW [Klipper + Fluidd + Moonraker in RaspberryDistro]
 - Calibrating the DeltaPrint-Geometry, carry out a correct calibration of the extruder!!! 
 
-STEP 1:
+# STEP 1:
 - Import "printer [Pre-Calibration].cfg" and rename in "printer.cfg"
 - Save and Reboot Klippy
 
-STEP 2:
+# STEP 2:
 - Run command "PROBE_CALIBRATE" 
 [with sensor installed]
 - Fine tuning with Paper method using TESTZ after removing the probe.
 [ex. "TESTZ Z=-10" etc.]
 - ACCEPT and SAVE_CONFIG
 
-STEP 3:
+# STEP 3:
 - Run command "DELTA_CALIBRATE"
 - SAVE_CONFIG
 
-STEP 4:
+# STEP 4:
 - Print "Calibration Hex 1.STL"
 - After printing, keep the bed warm -> GCODE Command: "M140 S60"
 - Measure and compile excel-file: 1 - "Klipper Enhanced Delta Calibration.xlsx"
@@ -61,7 +61,7 @@ STEP 4:
 -    > SAVE_CONFIG
 
   
-STEP 5:
+# STEP 5:
  - Print "Calibration Hex 2.STL"
  - After printing, keep the bed warm -> GCODE Command: "M140 S60"
  - Measure and compile excel-file: 1 - "2 - Calibration_Calculus.xlsx"

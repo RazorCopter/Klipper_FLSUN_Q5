@@ -10,6 +10,7 @@ Config and calibration Printer£D Delta FLSun Q5
 - Display TFT 3.5"
 - New EFFECTOR-Block (STL + Fusion360_Project)
 - Capricorn Tube
+- Toaiot Magnetic Bed PEI
 - FAN Noctua 40x40 
 - Led-Strip in towers 2835 24v
 - RaspberryCam FullHD

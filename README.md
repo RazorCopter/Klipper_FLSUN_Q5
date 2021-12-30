@@ -39,22 +39,22 @@ STEP 5:
 //==========================================================================
 //==========================================================================
 
-#*# <---------------------- SAVE_CONFIG ----------------------->
-#*# DO NOT EDIT THIS BLOCK OR BELOW. The contents are auto-generated.
-#*# [stepper_a]
-#*# angle = 210.481232
-#*# arm_length = 217.425939                 ####################### Fine Tuning parameter 
-#*# position_endstop = 218.724820
-#*#
-#*# [stepper_b]
-#*# angle = 330.925002
-#*# arm_length = 216.095900                ####################### Fine Tuning parameter 
-#*# position_endstop = 219.438345
-#*#
-#*# [stepper_c]
-#*# angle = 90.000000
-#*# arm_length = 215.670200               ####################### Fine Tuning parameter 
-#*# position_endstop = 218.763895
+- #*# <---------------------- SAVE_CONFIG ----------------------->
+- #*# DO NOT EDIT THIS BLOCK OR BELOW. The contents are auto-generated.
+- #*# [stepper_a]
+- #*# angle = 210.481232
+- #*# arm_length = 217.425939                 ####################### Fine Tuning parameter 
+- #*# position_endstop = 218.724820
+- #*#
+- #*# [stepper_b]
+- #*# angle = 330.925002
+- #*# arm_length = 216.095900                ####################### Fine Tuning parameter 
+- #*# position_endstop = 219.438345
+- #*#
+- #*# [stepper_c]
+- #*# angle = 90.000000
+- #*# arm_length = 215.670200               ####################### Fine Tuning parameter 
+- #*# position_endstop = 218.763895
 
 //==========================================================================
 //==========================================================================

@@ -9,6 +9,7 @@ Config and calibration Printer£D Delta FLSun Q5
 - Raspberry Pi Zero 2 W 
 - Display TFT 3.5"
 - New EFFECTOR-Block (STL + Fusion360_Project)
+- Capricorn Tube
 - FAN Noctua 40x40 
 - Led-Strip in towers 2835 24v
 - RaspberryCam FullHD

@@ -19,7 +19,7 @@ Config and calibration Printer£D Delta FLSun Q5
 - Moonraker v0.7.1-243
 - KlipperScreen v0.2.0-10
 
-###############   Install by KIAUH   ##############
+##################   Install by KIAUH   #################
 
 URL: https://github.com/th33xitus/kiauh
 

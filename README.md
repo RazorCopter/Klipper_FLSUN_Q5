@@ -1,7 +1,20 @@
 # Klipper_FLSUN_Q5
 Config and calibration Printer£D Delta FLSun Q5
 
+My Mod:
+- Phaetus Dragon Voron HotEnd HF
+- MKS Robin Nano v1.2 + 4x BigTrhhTech 2208
+- Raspberry Pi Zero 2 W + Display TFT 3.5"
+- New EFFECTOR-Block (STL)
+- FAN Noctua 40x40 
+- Led-Strip in towers 2835 24v
+
+
 Calibration FLSUN Q5:
+
+PREREQUISITES:
+- BEFORE calibrating the DeltaPrint-Geometry, carry out a correct calibration of the extruder!!! 
+
 STEP 1:
 - Import "printer [Pre-Calibration].cfg" and rename in "printer.cfg"
 - Save and Reboot Klippy

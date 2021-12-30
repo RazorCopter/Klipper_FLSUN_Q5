@@ -20,7 +20,9 @@ Config and calibration Printer£D Delta FLSun Q5
 - KlipperScreen v0.2.0-10
 
 ############### Install by KIAUH ##############
-https://github.com/th33xitus/kiauh
+
+URL: https://github.com/th33xitus/kiauh
+
 ###############################################
 
 

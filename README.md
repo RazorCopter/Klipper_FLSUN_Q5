@@ -1,4 +1,6 @@
-![Test Image 1](logo.jpg)
+![Logo](logo.jpg)
+
+
 
 # Klipper + FLUIDD >> FLSUN_Q5
 Config and calibration Printer£D Delta FLSun Q5
@@ -94,4 +96,4 @@ URL: https://github.com/th33xitus/kiauh
 //==========================================================================
 //==========================================================================
 
-
+![PrintQ5](FLSun_Q5.png)

@@ -3,19 +3,33 @@
 # Klipper_FLSUN_Q5
 Config and calibration Printer£D Delta FLSun Q5
 
-My Mod:
+################### HW MOD ####################
 - Phaetus Dragon Voron HotEnd HF
 - MKS Robin Nano v1.2 + 4x BigTrhhTech 2208
-- Raspberry Pi Zero 2 W + Display TFT 3.5"
+- Raspberry Pi Zero 2 W 
+- Display TFT 3.5"
 - New EFFECTOR-Block (STL)
 - FAN Noctua 40x40 
 - Led-Strip in towers 2835 24v
+- RaspberryCam FullHD
+
+################### SW MOD #####################
+- Klipper v0.10.0-184
+- Fluidd  v1.16.2
+- Moonraker v0.7.1-243
+- KlipperScreen v0.2.0-10
+
+############### Install by KIAUH ##############
+https://github.com/th33xitus/kiauh
+###############################################
 
 
 Calibration FLSUN Q5:
 
 PREREQUISITES:
-- BEFORE calibrating the DeltaPrint-Geometry, carry out a correct calibration of the extruder!!! 
+# BEFORE :
+- Install SW [Klipper + Fluidd + Moonraker in RaspberryDistro]
+- Calibrating the DeltaPrint-Geometry, carry out a correct calibration of the extruder!!! 
 
 STEP 1:
 - Import "printer [Pre-Calibration].cfg" and rename in "printer.cfg"

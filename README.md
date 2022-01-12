@@ -11,6 +11,7 @@ Config and calibration Printer£D Delta FLSun Q5
 - Raspberry Pi Zero 2 W 
 - Display TFT 3.5"
 - New EFFECTOR-Block (STL + Fusion360_Project)
+    "file: Effector-Base_FLSUN Q5v1.f3z"
 - Capricorn Tube
 - Toaiot Magnetic Bed PEI
 - Extruder Dual Drive v2

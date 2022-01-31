@@ -10,6 +10,7 @@ Config and calibration Printer£D Delta FLSun Q5
 - MKS Robin Nano v1.2 + 4x BigTrhhTech 2208
 - Raspberry Pi Zero 2 W 
 - Display TFT 3.5"
+    "https://github.com/CytronTechnologies/xpt2046-LCD-Driver-for-Raspberry-Pi"
 - New EFFECTOR-Block (STL + Fusion360_Project)
     "file: Effector-Base_FLSUN Q5v1.f3z"
 - Capricorn Tube
